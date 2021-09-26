@@ -1,0 +1,34 @@
+body{background-image: url(images/Best\ Website\ for\ Products\ Reviews\ and\ Buyer\ Guide\ -\ HDWArena.jpg);
+     width: 100%; height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    }
+h1{text-align: center; color: white;
+   font-size: 3rem;
+}
+span{color: white; font-family: cursive}
+.sub{
+   background-color: violet; 
+   padding: 15px;
+   font-size: 1.5rem;
+   border: 1px solid turquoise;
+   border-radius: 5px;
+   margin: 20px;
+   box-shadow: 4px 5px 9px;
+   transition: 0.5s;
+   
+}
+.sub:hover{
+   color: white; 
+   box-shadow: 5px 6px 10px rgb(80, 173, 127);
+   background-color: rgb(110, 57, 110);
+   
+}
+.sub-div{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
